@@ -1,6 +1,6 @@
 🎉 **Welcome to my GitHub profile!**</br></br>
 𝑯𝒊, 𝑰'𝒎 ✨ [𝐗𝐚𝐧](https://xancoding.cn/) ✨,𝐚 𝐂𝐒 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐍𝐂𝐄𝐏𝐔.</br></br>
-𝐌𝐲 ❤ 𝐡𝐨𝐛𝐛𝐢𝐞𝐬 ❤ 𝐚𝐫𝐞 𝐑𝐮𝐧𝐧𝐢𝐧𝐠, 𝐇𝐢𝐤𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲.
+𝐌𝐲 ❤ 𝐡𝐨𝐛𝐛𝐢𝐞𝐬 ❤ 𝐚𝐫𝐞 𝐑𝐮𝐧𝐧𝐢𝐧𝐠, 𝐇𝐢𝐤𝐢𝐧𝐠, 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, 𝐇𝐢𝐬𝐭𝐨𝐫𝐲 𝐚𝐧𝐝 𝐏𝐬𝐲𝐜𝐡𝐨𝐥𝐨𝐠𝐲.
 ## 📈 My GitHub Stats
 <p align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Xancoding&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
