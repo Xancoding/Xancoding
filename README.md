@@ -15,7 +15,7 @@
 ## 🔥 My GitHub activities of last 31 days.
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=XanCoding&theme=xcode" /> </div>
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br/>
   <img src="https://profile-counter.glitch.me/xancoding/count.svg" />
-</p>
+</p> -->
