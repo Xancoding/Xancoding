@@ -4,6 +4,15 @@
 
 ## ✍️ Coding status last week
 <!--START_SECTION:waka-->
+
+```text
+From: 26 October 2022 - To: 01 November 2022
+
+Total Time: 1 hr 29 mins
+
+Other            1 hr 19 mins    >>>>>>>>>>>>>>>>>>>>>>---   88.26 %
+```
+
 <!--END_SECTION:waka-->
 
 
