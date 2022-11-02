@@ -8,9 +8,7 @@
 ```text
 From: 26 October 2022 - To: 02 November 2022
 
-Total Time: 9 hrs 47 mins
-
-Other            7 hrs 38 mins   >>>>>>>>>>>>>>>>>>>>-----   78.01 %
+Other            7 hrs 38 mins   ███████████████████▓░░░░░   78.01 %
 ```
 
 <!--END_SECTION:waka-->
