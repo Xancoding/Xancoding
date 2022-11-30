@@ -6,9 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 November 2022 - To: 29 November 2022
+From: 23 November 2022 - To: 30 November 2022
 
-Other   11 hrs 25 mins  ████████████▒░░░░░░░░░░░░   49.54 %
+Java    6 hrs 24 mins   ████████████░░░░░░░░░░░░░   47.81 %
+C++     3 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+Other   2 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
 ```
 
 <!--END_SECTION:waka-->
