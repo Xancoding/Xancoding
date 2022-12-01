@@ -6,11 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 30 November 2022
+From: 24 November 2022 - To: 01 December 2022
 
-Java    6 hrs 24 mins   ████████████░░░░░░░░░░░░░   47.81 %
-C++     3 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   29.47 %
-Other   2 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
+C++          6 hrs 33 mins   █████████████████░░░░░░░░   68.21 %
+Java         2 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
+Markdown     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+CMake        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
