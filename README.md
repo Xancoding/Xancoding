@@ -21,8 +21,8 @@ Other        6 hrs 50 mins   █████████░░░░░░░░
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xancoding&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 </p>
 
-## 🔥 My GitHub activities of last 31 days.
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=XanCoding&theme=xcode" /> </div>
+<!-- ## 🔥 My GitHub activities of last 31 days.
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=XanCoding&theme=xcode" /> </div> -->
 
 <!-- <p align="center"> 
   Visitor count<br/>
