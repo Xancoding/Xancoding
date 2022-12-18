@@ -6,9 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 December 2022 - To: 17 December 2022
+From: 11 December 2022 - To: 18 December 2022
 
-Other            23 hrs 8 mins   █████████████████████░░░░   83.63 %
+Other            19 hrs 41 mins  ████████████████████▒░░░░   81.31 %
 ```
 
 <!--END_SECTION:waka-->
