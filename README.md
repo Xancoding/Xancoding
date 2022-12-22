@@ -6,10 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 December 2022 - To: 21 December 2022
-
-Java       26 mins         ███████████████████▒░░░░░   76.71 %
-Other      4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
