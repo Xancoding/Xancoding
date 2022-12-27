@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
 C++        30 mins         ███████████████▓░░░░░░░░░   62.62 %
 Markdown   14 mins         ███████░░░░░░░░░░░░░░░░░░   28.61 %
