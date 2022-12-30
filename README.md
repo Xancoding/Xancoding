@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
 Java       9 hrs 24 mins   ███████████████████████░░   92.60 %
 C++        30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
