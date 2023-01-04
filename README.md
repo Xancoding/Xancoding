@@ -6,11 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 03 January 2023
+From: 28 December 2022 - To: 04 January 2023
 
-Java         9 hrs 20 mins   ███████████████████████▒░   93.24 %
-JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Java         4 hrs 43 mins   ████████████████████▓░░░░   83.09 %
+JavaScript   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Markdown     19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+YAML         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
 ```
 
 <!--END_SECTION:waka-->
