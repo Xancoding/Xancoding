@@ -6,12 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 December 2022 - To: 07 January 2023
+From: 01 January 2023 - To: 08 January 2023
 
-JavaScript   20 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
-C++          20 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
-Markdown     19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
-YAML         17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+JavaScript   20 mins         ███████▓░░░░░░░░░░░░░░░░░   30.27 %
+C++          20 mins         ███████▓░░░░░░░░░░░░░░░░░   30.22 %
+YAML         17 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
+Markdown     10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
 ```
 
 <!--END_SECTION:waka-->
