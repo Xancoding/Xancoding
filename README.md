@@ -6,12 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 12 January 2023
+From: 06 January 2023 - To: 13 January 2023
 
-C++          4 hrs 9 mins    ████████████████████████▒   96.67 %
-Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-ObjectiveC   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+C++          5 hrs 7 mins    ████████████████████████▒   97.28 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+ObjectiveC   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
