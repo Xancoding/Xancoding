@@ -6,10 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
+From: 13 January 2023 - To: 20 January 2023
 
-C++        4 hrs 25 mins   █████████████████████▒░░░   85.82 %
-Markdown   43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
+C++        3 hrs 27 mins   ██████████████▓░░░░░░░░░░   58.81 %
+Markdown   2 hrs 25 mins   ██████████▒░░░░░░░░░░░░░░   41.19 %
 ```
 
 <!--END_SECTION:waka-->
