@@ -6,11 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 February 2023 - To: 25 February 2023
+From: 19 February 2023 - To: 26 February 2023
 
-Markdown   35 mins         ██████████████████▓░░░░░░   75.19 %
-Assembly   9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.65 %
-Other      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Markdown   37 mins         ██████████████▒░░░░░░░░░░   56.84 %
+Other      14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
 ```
 
 <!--END_SECTION:waka-->
