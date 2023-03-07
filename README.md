@@ -6,10 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2023 - To: 06 March 2023
+From: 28 February 2023 - To: 07 March 2023
 
-Markdown   1 hr 44 mins    ██████████████▓░░░░░░░░░░   58.95 %
-Assembly   1 hr 12 mins    ██████████▒░░░░░░░░░░░░░░   41.04 %
+Markdown   1 hr 42 mins    ███████████████▓░░░░░░░░░   63.23 %
+Assembly   58 mins         █████████░░░░░░░░░░░░░░░░   36.33 %
+C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
