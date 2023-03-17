@@ -6,11 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2023 - To: 16 March 2023
+From: 10 March 2023 - To: 17 March 2023
 
-Markdown   4 hrs 35 mins   ████████████▓░░░░░░░░░░░░   50.05 %
-C++        4 hrs 10 mins   ███████████▒░░░░░░░░░░░░░   45.49 %
-Assembly   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+C++        5 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   45.22 %
+Markdown   5 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   40.79 %
+Assembly   1 hr 48 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
