@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2023 - To: 01 April 2023
+From: 26 March 2023 - To: 02 April 2023
 
-Markdown         5 hrs 55 mins   ██████████████▒░░░░░░░░░░   57.25 %
-C++              3 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.79 %
-Python           1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-CMake            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Markdown         6 hrs 3 mins    █████████████░░░░░░░░░░░░   52.20 %
+C++              3 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   30.37 %
+Python           1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+CMake            29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+YAML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-CMakeLists.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
