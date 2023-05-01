@@ -6,10 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 24 April 2023 - To: 01 May 2023
 
-Markdown   44 mins         █████████████▓░░░░░░░░░░░   54.75 %
-Python     37 mins         ███████████▒░░░░░░░░░░░░░   45.25 %
+Markdown   59 mins         ███████████████▒░░░░░░░░░   61.66 %
+Python     37 mins         █████████▓░░░░░░░░░░░░░░░   38.34 %
 ```
 
 <!--END_SECTION:waka-->
