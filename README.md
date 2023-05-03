@@ -6,10 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2023 - To: 02 May 2023
+From: 26 April 2023 - To: 03 May 2023
 
-Markdown   1 hr 1 min      ███████████████▓░░░░░░░░░   62.36 %
-Python     37 mins         █████████▒░░░░░░░░░░░░░░░   37.64 %
+C++           1 hr 49 mins    █████████████░░░░░░░░░░░░   51.41 %
+Markdown      1 hr 1 min      ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+Python        42 mins         █████░░░░░░░░░░░░░░░░░░░░   19.72 %
+CMake         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+ObjectiveC    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
