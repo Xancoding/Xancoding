@@ -6,13 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 May 2023 - To: 18 May 2023
+From: 12 May 2023 - To: 19 May 2023
 
-Markdown     10 mins         ██████████░░░░░░░░░░░░░░░   39.81 %
-Other        8 mins          ████████░░░░░░░░░░░░░░░░░   31.92 %
-C++          7 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.15 %
-CMake        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
