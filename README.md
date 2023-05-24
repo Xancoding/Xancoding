@@ -6,9 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2023 - To: 23 May 2023
+From: 17 May 2023 - To: 24 May 2023
 
-Markdown   1 hr 38 mins    █████████████████████████   100.00 %
+Markdown      2 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   31.57 %
+C             1 hr 45 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
+Makefile      1 hr 45 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
+Bash          53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+Objective-C   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
