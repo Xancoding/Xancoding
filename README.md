@@ -5,7 +5,7 @@
 ## ✍️ Coding status last week
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 Markdown         11 hrs 6 mins   █████████████████▒░░░░░░░   69.31 %
