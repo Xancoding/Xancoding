@@ -6,10 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2023 - To: 10 June 2023
+From: 04 June 2023 - To: 11 June 2023
 
-Python           3 hrs 48 mins   ███████████████████▓░░░░░   78.50 %
-Markdown         1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
+Python           3 hrs 48 mins   ███████████████████▒░░░░░   77.07 %
+Markdown         1 hr 7 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
