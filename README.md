@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2023 - To: 15 June 2023
+From: 09 June 2023 - To: 16 June 2023
 
-C++              5 hrs 9 mins    ██████████████████████▓░░   91.33 %
-Markdown         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-ObjectiveC       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-CMake            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+C++              6 hrs 15 mins   ███████████████████████▒░   92.68 %
+Markdown         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+ObjectiveC       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+CMake            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
