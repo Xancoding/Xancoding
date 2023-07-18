@@ -6,12 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2023 - To: 17 July 2023
+From: 11 July 2023 - To: 18 July 2023
 
-Markdown   3 hrs 19 mins   ████████████████▓░░░░░░░░   66.43 %
-Python     1 hr 26 mins    ███████▒░░░░░░░░░░░░░░░░░   28.80 %
-C++        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown   3 hrs 4 mins    █████████████████▓░░░░░░░   70.23 %
+Python     1 hr 18 mins    ███████▒░░░░░░░░░░░░░░░░░   29.77 %
 ```
 
 <!--END_SECTION:waka-->
