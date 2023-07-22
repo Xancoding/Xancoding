@@ -8,7 +8,7 @@
 ```txt
 From: 26 October 2022 - To: 21 July 2023
 
-Total Time: 587 hrs 7 mins
+Total Time: 282 hrs 30 mins
 
 Other               304 hrs 37 mins █████████████░░░░░░░░░░░░   51.88 %
 C++                 86 hrs 44 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
