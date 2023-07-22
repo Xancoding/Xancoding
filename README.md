@@ -8,9 +8,18 @@
 ```txt
 From: 26 October 2022 - To: 21 July 2023
 
-Total Time: 282 hrs 30 mins
+Total Time: 587 hrs 7 mins
 
 Other               304 hrs 37 mins █████████████░░░░░░░░░░░░   51.88 %
+C++                 86 hrs 44 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Markdown            82 hrs 54 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+Python              36 hrs 28 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Java                26 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+C                   20 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Assembly            10 hrs 24 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JavaScript          3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Makefile            3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+CMake               3 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
