@@ -6,11 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2023 - To: 21 July 2023
+From: 26 October 2022 - To: 21 July 2023
 
-Python     14 hrs 17 mins  ██████████████████████▒░░   88.87 %
-Markdown   1 hr 46 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Total Time: 282 hrs 30 mins
+
+Other               304 hrs 37 mins █████████████░░░░░░░░░░░░   51.88 %
+C++                 86 hrs 44 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Markdown            82 hrs 54 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+Python              36 hrs 28 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Java                26 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 ```
 
 <!--END_SECTION:waka-->
