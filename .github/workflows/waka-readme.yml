@@ -27,5 +27,5 @@ jobs:
           LANG_COUNT: 100
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_MASKED_TIME: True
+          SHOW_MASKED_TIME: false
           
