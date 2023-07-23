@@ -6,18 +6,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2022 - To: 22 July 2023
+From: 26 October 2022 - To: 23 July 2023
 
-Total Time: 284 hrs 40 mins
+Total Time: 285 hrs 6 mins
 
-Other               304 hrs 37 mins █████████████░░░░░░░░░░░░   51.69 %
-C++                 86 hrs 44 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
-Markdown            83 hrs 7 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-Python              38 hrs 24 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Other               304 hrs 37 mins █████████████░░░░░░░░░░░░   51.66 %
+C++                 86 hrs 44 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Markdown            83 hrs 33 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Python              38 hrs 24 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
 Java                26 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-C                   20 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Assembly            10 hrs 24 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-JavaScript          3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+C                   20 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Assembly            10 hrs 24 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+JavaScript          3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 Makefile            3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 CMake               3 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 Vim Script          2 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
