@@ -6,23 +6,23 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2022 - To: 25 December 2023
+From: 26 October 2022 - To: 26 December 2023
 
-Total Time: 426 hrs 45 mins
+Total Time: 429 hrs 13 mins
 
-Other               304 hrs 37 mins ██████████▒░░░░░░░░░░░░░░   41.65 %
-Markdown            155 hrs 8 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
-C++                 87 hrs 3 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Python              78 hrs 11 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Java                26 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Jupyter             22 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-C                   20 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Assembly            10 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-JavaScript          3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Makefile            3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Other               304 hrs 37 mins ██████████▒░░░░░░░░░░░░░░   41.51 %
+Markdown            155 hrs 8 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
+C++                 87 hrs 3 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+Python              80 hrs 39 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+Java                26 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Jupyter             22 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+C                   20 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Assembly            10 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+JavaScript          3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Makefile            3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 CMake               3 hrs 13 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 Text                2 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Vim Script          2 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Vim Script          2 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 Prolog              1 hr 57 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 Bash                1 hr 45 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ObjectiveC          1 hr 2 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
