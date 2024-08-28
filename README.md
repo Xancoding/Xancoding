@@ -6,16 +6,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2022 - To: 27 August 2024
+From: 26 October 2022 - To: 28 August 2024
 
-Total Time: 544 hrs 14 mins
+Total Time: 546 hrs
 
-Other               304 hrs 37 mins █████████░░░░░░░░░░░░░░░░   35.89 %
-Markdown            187 hrs 27 mins █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
-Python              115 hrs 9 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-C++                 91 hrs 38 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Jupyter             61 hrs 48 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Java                26 hrs 52 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Other               304 hrs 37 mins █████████░░░░░░░░░░░░░░░░   35.81 %
+Markdown            187 hrs 27 mins █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+Python              115 hrs 9 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+C++                 91 hrs 38 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Jupyter             63 hrs 35 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+Java                26 hrs 52 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 C                   20 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 Assembly            10 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 JavaScript          3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
