@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2022 - To: 30 July 2025
+From: 26 October 2022 - To: 31 July 2025
 
-Total Time: 733 hrs 25 mins
+Total Time: 733 hrs 36 mins
 
 Other               304 hrs 42 mins ███████▒░░░░░░░░░░░░░░░░░   29.35 %
-Python              263 hrs 25 mins ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
-Markdown            188 hrs 22 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-Jupyter             99 hrs 37 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Python              263 hrs 36 mins ██████▒░░░░░░░░░░░░░░░░░░   25.39 %
+Markdown            188 hrs 22 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
+Jupyter             99 hrs 37 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
 C++                 91 hrs 38 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
 Java                26 hrs 52 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 C                   20 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
