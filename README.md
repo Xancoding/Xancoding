@@ -6,22 +6,22 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2022 - To: 10 September 2025
+From: 26 October 2022 - To: 11 September 2025
 
-Total Time: 743 hrs 53 mins
+Total Time: 746 hrs 44 mins
 
-Other               304 hrs 43 mins ███████▒░░░░░░░░░░░░░░░░░   29.06 %
-Python              272 hrs 19 mins ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
-Markdown            189 hrs 57 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-Jupyter             99 hrs 37 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-C++                 91 hrs 38 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Other               304 hrs 44 mins ███████▒░░░░░░░░░░░░░░░░░   28.98 %
+Python              275 hrs 2 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
+Markdown            189 hrs 57 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+Jupyter             99 hrs 37 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+C++                 91 hrs 38 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
 Java                26 hrs 52 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-C                   20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Assembly            10 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JavaScript          3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Makefile            3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+C                   20 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Assembly            10 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+JavaScript          3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Makefile            3 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Text                3 hrs 24 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 CSV/TSV             3 hrs 22 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Text                3 hrs 22 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 CMake               3 hrs 13 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 Vim Script          2 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 Prolog              1 hr 57 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
